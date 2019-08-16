@@ -7,4 +7,4 @@ This is a very simple build, and not much is required. Simply run the ```index.h
 ## Future Enhancements
 - Save items to local storage
 
-[](https://github.com/sherkoo/todo-js-app/blob/master/src/screenshot.png)
+[](https://raw.githubusercontent.com/sherkoo/todo-js-app/master/src/screenshot.png)
