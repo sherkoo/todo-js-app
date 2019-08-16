@@ -4,4 +4,7 @@ Another todo app built in JavaScript you say? Sure why not! This is built using 
 ## Getting Started
 This is a very simple build, and not much is required. Simply run the ```index.html``` file in your browser.
 
-[](placeholder-for-image)
+## Future Enhancements
+- Save items to local storage
+
+[](https://github.com/sherkoo/todo-js-app/blob/master/src/screenshot.png)
